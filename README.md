@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anton 👋  
+**Python Developer | FastAPI & Django | PostgreSQL & MySQL | Redis | Docker**
 
-<!--
-**AntonRomanuyk/AntonRomanuyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build reliable, scalable backend systems with clean architecture, strong API design, and a focus on performance and maintainability.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Bring
+
+- Strong understanding of **API design**, **backend architecture**, and **Python**
+- Experience building **real production-like systems**
+- Ability to work with **databases efficiently**
+- Comfortable with **Dockerized**
+- Passion for writing clean, maintainable code with documentation and tests
+
+---
+
+⭐ *If you like my work, feel free to star my repos or reach out — I'm open to python developer roles and collaborations.*
