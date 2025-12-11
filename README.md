@@ -15,4 +15,10 @@ I build reliable, scalable backend systems with clean architecture, strong API d
 
 ---
 
+## 👨‍🎓 Education
+
+- Bachelor's degree in Computer science at [Kharkiv National University of Radioelectronics](https://nure.ua/en/)
+
+---
+
 ⭐ *If you like my work, feel free to star my repos or reach out — I'm open to python developer roles and collaborations.*
